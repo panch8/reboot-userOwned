@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "fran_backend": {
-      "main": "src/fran_backend/main.mo",
+    "fran": {
+      "main": "src/fran/main.mo",
       "type": "motoko"
     }
   },
